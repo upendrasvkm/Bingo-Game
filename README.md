@@ -6,3 +6,7 @@
 5.Count Free Row, Free Column, and Free Diagonal.
 6.If Count is Equal to 5. (Win)
 #We use random number generator to pick the Number.
+
+
+funwithbingo.py <-- This Is Automatic Bingo Game. where bingo choose randomly number ball.
+bingogame <-- This is manual Bingo Game. Where you can select number.which you want to free.
